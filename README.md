@@ -1,9 +1,7 @@
-# grunt_init
+# Backbone_Todo_App
 
 ## 参考元
-
-+ http://qiita.com/megurock/items/54872c26e45017cd36a1
-+ http://lab.spec5zigen.com/archives/mygruntfile-js/
-+ http://tipsbear.com/grunt-task-memo/
-+ http://blog.mitsuruog.info/2013/12/yeomangruntfilejs.html
-+ http://www.riaxdnp.jp/?p=4659
+- <a href="http://backbonejs.org/">Backbone.js</a>
+- <a href="http://backbonejs.org/#examples-todos">Backbone.js</a>
+- <a href="http://mawatari.jp/archives/roadmap-for-backbonejs-beginners">Backbone.js入門 – 初学者の為のロードマップ | mawatari.jp</a>
+- <a href="http://dotinstall.com/lessons/basic_backbonejs">Backbone.js入門 (全22回) - プログラミングならドットインストール</a>
